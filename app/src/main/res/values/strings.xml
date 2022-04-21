@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sign Up And Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_acitivty">Sign Up Activity</string>
+    <string name="login_sac">Login Acitvity only 2 attempts</string>
+    <string name="login">Login </string>
+    <string name="login_sucess">Login Successful</string>
+</resources>
